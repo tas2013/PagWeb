@@ -1,2 +1,25 @@
 holii
 prueba de branch alexis miranda
+
+
+
+US1: 
+
+-AUTOR: PATRICIO PARRA
+
+TITULO:
+
+-Ver fecha y hora de inicio y termino de una tarea asignada
+
+Descripcion de funcionalidad:
+
+-Como usuario validado quiero ver la hora y fecha  de inicio y termino a una tarea asignada , Para estar informado con respecto al tiempo que tienen mis compañeros para hacer una tarea y asi saber cuando asignarles una tarea o ver el tiempo que tengo para hacer la mia.
+
+CRITERIO ACEPTACION:
+
+-Cuando ingreso como usuario validado y veo una tarea asignada a un usuario o a mi espero:
+
+- Ver La hora de cuando fue asignada una tarea a un usuario 
+- Ver Fecha de cuando fue asignada una tarea a un usuario 
+- Ver fecha de finalización de la tarea asignada al usuario 
+-Ver hora de finalización de la tarea asignada a un usuario 
